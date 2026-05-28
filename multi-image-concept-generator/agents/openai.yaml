@@ -1,0 +1,4 @@
+interface:
+  display_name: "Multi Image Generator"
+  short_description: "Ask first, then generate concept-matched image sets."
+  default_prompt: "Use $multi-image-concept-generator to create multiple images from my concept after asking for references, direction, and count."
