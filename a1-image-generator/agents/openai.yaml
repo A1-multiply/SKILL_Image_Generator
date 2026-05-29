@@ -1,4 +1,4 @@
 interface:
   display_name: "A1 Image Generator"
   short_description: "Ask first, then generate concept-matched image sets."
-  default_prompt: "Use $a1-image-generator to create multiple images from my concept after asking for references, direction, and count."
+  default_prompt: "Use $a1-image-generator to create multiple images from my concept after asking for references, count, save location, aspect ratio, and direction."
